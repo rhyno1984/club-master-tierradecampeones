@@ -1,26 +1,11 @@
-# Club Máster Tierra de Campeones — Página web gratuita
+# Club Máster Tierra de Campeones — versión para GitHub Pages
 
-## Abrir
-Descomprime el ZIP y abre `index.html`.
+Esta versión está preparada para subir todos los archivos directamente a la raíz del repositorio.
 
-## Publicarla gratis
-Puedes usar cualquiera de estas opciones:
-- GitHub Pages
-- Netlify
-- Cloudflare Pages
+No requiere carpeta `assets`.
 
-El sitio es estático (HTML, CSS y JavaScript), por lo que no necesita servidor ni base de datos.
-
-## Incluye
-- Portada profesional sin repetir el logo grande
-- Historia emocional y línea de tiempo
-- Firmas históricas sin RUT ni domicilios
-- Sección Nuestros Atletas
-- Logros
-- Galería filtrable con las fotos nuevas
-- Visor de fotografías en pantalla completa
-- Noticias y contacto
-- Diseño adaptable a celular y computador
-
-## Antes de publicar
-Confirma con la directiva las cifras históricas y autoriza el uso público de las fotografías.
+Sube:
+- index.html
+- styles.css
+- script.js
+- todas las imágenes
